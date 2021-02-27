@@ -12,10 +12,11 @@ Otherwise enjoy!
 
 Thirth
 
-Tutorials
+## Tutorials
 https://www.youtube.com/watch?v=Qf3-aDXG8q4&t=188s&ab_channel=ClearCode
 https://www.youtube.com/watch?v=dGwmmBBMlKs&ab_channel=buildwithpython
 https://www.youtube.com/watch?v=Fp1dudhdX8k&feature=emb_title&ab_channel=buildwithpython
 
-Background Image
+## Background Image
+
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fwallpapercave.com%2Fatari-retro-wallpapers&psig=AOvVaw0DU1O9LWfEJWliOShAnPhg&ust=1614309851508000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJj39_yKhO8CFQAAAAAdAAAAABAD
